@@ -27,3 +27,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/Kamal-Abdullayev)  
 
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamal-Abdullayev&hide=css,html&layout=compact&theme=github_dark)
+
+
+
