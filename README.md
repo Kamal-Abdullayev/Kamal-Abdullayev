@@ -13,8 +13,6 @@
 ---
 <p align="left">
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  style="width: 8%"/></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
