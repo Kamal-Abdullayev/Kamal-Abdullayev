@@ -12,14 +12,18 @@
 <a href="#"><img src="https://img.icons8.com/offices/40/000000/working-with-a-laptop.png"/> Let's code...</img></a>
 ---
 <p align="left">
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  style="width: 8%"/></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  style="width: 6%"/></a>
+    <a href="#"><img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"  style="width: 4%"/></a>
+    <a href="#"><img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" style="width: 4%"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" style="width: 5%"/></a>
+    <a href="#"><img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" style="width: 5%"/></a>
+    <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
 </p>
