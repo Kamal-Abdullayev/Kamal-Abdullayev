@@ -1,5 +1,10 @@
 <h1 align="center">Hello World!</h1>
-<h3 align="center">First and foremost, I love writing code. Ever since writing my first program in Python and manipulating it to produce a desired output, I have been obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world...</h3>
+<h3 align="center">
+    I believe software engineering is more than just writing code, it's about solving real problems and improving lives. Just like traditional engineering, building software requires reliability, clarity and long-term maintainability. Every digital solution we craft should be as thoughtfully designed and resilient as structures in the physical world.
+Creating software that stands out requires a blend of creativity, analytical thinking and problem-solving skills. I see myself as a lifelong learner, constantly adapting to the ever-evolving tech landscape and embracing new trends to stay ahead.
+The rise of AI has reshaped the rules of the game and I’m committed to not just keeping up but leading innovation. Let's connect in this digital world and impact the future.
+
+</h3>
 
 
 <a href="#"><img src="https://img.icons8.com/dusk/40/000000/friends.png"/> Feel free to contact me:</a>
